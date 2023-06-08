@@ -14,6 +14,10 @@ I created this application mainly to practise with Vanilla JavaScript (geolocati
 ## Class diagram
 [![Eventify, a simple learning application in Vanilla JavaScript](https://raw.githubusercontent.com/josenavarrohub/vanilla-js-eventify/main/class-diagram.drawio.svg)](https://josenavarrohub.github.io/vanilla-js-eventify/)
 
+## Third party libraries
+* Leaflet (Carto provider)
+* Bootstrap
+
 ## Author
 
 * **José Navarro** - [View LinkedIn profile](https://www.linkedin.com/in/josenavarroortiz/)
