@@ -1,4 +1,3 @@
-'use strict';
 import { App } from './classes/business/app.js';
 
 // Init App
